@@ -9,7 +9,7 @@
 - [IMEI Check TG Bot](https://github.com/ekTeZy/IMEI-Check-TG-Bot) – **чекаем железки** в два клика
 - [Shop](https://github.com/ekTeZy/Shop) - учебная реализация **интернет-магазина** с наруто и бэтменом 
 
-🛠 **Стек:** Python 🐍 | Flask | FastAPI | Sanic | PostgreSQL | Redis | Docker | SQLAlchemy | Celery | Asyncio  
+🛠 **Стек:** Python/Go 🐍 | Flask | FastAPI | Sanic | PostgreSQL | Redis | Docker | SQLAlchemy | Celery | Asyncio  
 
 📬 **Связаться со мной:**  
 [Email](mailto:kamolikov.en@gmail.com)  
