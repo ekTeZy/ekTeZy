@@ -1,21 +1,36 @@
-# 🏴‍☠️ backend-разработчик    
+# 🏴‍☠️ Backend-разработчик
 
-🎯 **Что тут интересного?**  
-## Интересные Python проекты: 
-- [SanicPay API](https://github.com/ekTeZy/SanicPay-API) – **быстрые платежи** на Sanic
-- [FlaskAuth-API](https://github.com/ekTeZy/FlaskAuth-API) – **база** по авторизации на Flask
-- [FlaskElectronics-API](https://github.com/ekTeZy/FlaskElectronics-API) – **топ товары и продажи** на Flask
-- [Task Queue Manager](https://github.com/ekTeZy/Task-Queue-Manager) – **управление задачами** без хаоса (в девелопе)
-- [IMEI Check TG Bot](https://github.com/ekTeZy/IMEI-Check-TG-Bot) – **чекаем железки** в два клика
-- [Shop](https://github.com/ekTeZy/Shop) - учебная реализация **интернет-магазина** с наруто и бэтменом
-- _ещё много всякого_
+—
 
-## Интересные Go проекты: 
-- [JWT-Auth](https://github.com/ekTeZy/JWT-Auth-GO) - дефолтная **аутентификация** с моковым логированием
-- [Workmate-GO](https://github.com/ekTeZy/Workmate-GO) - сервис для **создания и отслеживания** фоновых тасок
-- _скоро будет ещё, т.к. пока в разработке_
+Основной стек — **Python**, активно изучаю **Go**.  
+Люблю писать API, ковыряться в асинхронщине и делать вещи, которые работают быстро и надёжно.
 
-🛠 **Стек:** Python/Go 🐍 | Flask | FastAPI | Sanic | net/http | JWT | PostgreSQL | Redis | Docker | SQLAlchemy | Celery | Asyncio  
+—
 
-📬 **Связаться со мной:**  
-[Email](mailto:kamolikov.en@gmail.com)  
+🛠 **Стек:** Python / Go 🐍⚙️ | Flask | FastAPI | Sanic | net/http | JWT | PostgreSQL | Redis | Docker | SQLAlchemy | Celery | Asyncio  
+
+---
+
+🌟 **Интересные Python-проекты:**
+
+- [**SanicPay API**](https://github.com/ekTeZy/SanicPay-API) — API для **быстрых платежей** на Sanic  
+- [**FlaskAuth-API**](https://github.com/ekTeZy/FlaskAuth-API) — база для **аутентификации и JWT** на Flask  
+- [**FlaskElectronics-API**](https://github.com/ekTeZy/FlaskElectronics-API) — API для витрины с **топами и продажами**  
+- [**FastAPI-Files**](https://github.com/ekTeZy/FastAPI-Files) — загрузка **аудиофайлов** с авторизацией через Яндекс  
+- [**IMEI Check TG Bot**](https://github.com/ekTeZy/IMEI-Check-TG-Bot) — Telegram-бот для **проверки IMEI**  
+- [**Shop**](https://github.com/ekTeZy/Shop) — учебный **интернет-магазин** с JWT и ролевой моделью  
+- _и ещё пара десятков мелких экспериментов_
+
+---
+
+🚀 **Интересные Go-проекты:**
+
+- [**JWT-Auth-GO**](https://github.com/ekTeZy/JWT-Auth-GO) — базовая **аутентификация** с JWT и логированием IP  
+- [**Workmate-GO**](https://github.com/ekTeZy/Workmate-GO) — сервис управления **фоновой задачей и статусом выполнения**  
+- _в разработке ещё кое-что, скоро покажу_
+
+---
+
+📬 **Связь:**  
+[Email](mailto:kamolikov.en@gmail.com)
+
