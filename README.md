@@ -1,4 +1,4 @@
-# 🏴‍☠️ AQA Enginner / Backend Developer
+# 🏴‍☠️ AQA Engineer / Backend Developer
 
 Основной стек — **Python**, активно изучаю **Go**.  
 
