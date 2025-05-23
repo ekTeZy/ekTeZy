@@ -2,7 +2,7 @@
 
 Основной стек — **Python**, активно изучаю **Go**.  
 
-🛠 **Стек:** Python / Go 🐍⚙️ | Flask | FastAPI | Sanic | net/http | Gin | bcrypt/scrypt | JWT | PostgreSQL | Redis | Postman | pytest | Docker | SQLAlchemy | Celery | Asyncio _ну и там по мелочи всякого_  
+🛠 **Стек:** Python / Go 🐍⚙️ | Flask | FastAPI | Sanic | net/http | Gin | bcrypt/scrypt | JWT | PostgreSQL | Redis | Postman | pytest | Docker | SQLAlchemy | Celery | Asyncio | _ну и там по мелочи всякого_  
 
 ---
 
